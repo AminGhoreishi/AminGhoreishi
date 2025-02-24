@@ -1,4 +1,6 @@
-# Hi there I'm Amin
+# Hi there I'm 𝓐𝓶𝓲𝓷 𝓖𝓱𝓸𝓻𝓮𝓲𝓼𝓱𝓲
+
+![](https://komarev.com/ghpvc/?username=aminghoreishi)
 
 <div style="display:flex;">
   
