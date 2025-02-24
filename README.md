@@ -27,7 +27,11 @@
 <div style="display:flex">
 <img height=140 src="https://github-readme-stats.vercel.app/api?username=aminghoreishi&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminghoreishi&layout=compact&theme=radical">
+</div>
+
+<div align="center">
   
+  ![snake gif](https://github.com/aminghoreishi/aminghoreishi/blob/output/github-snake-dark.svg)
 </div>
 
 
