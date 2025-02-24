@@ -22,7 +22,8 @@
 
 <br />
 
-𝐺𝘪𝑡𝘩𝑢𝘣 𝘴𝑡𝘢𝑡𝘶𝑠
+
+𝐺𝘪𝑡𝘩𝑢𝘣 𝘴𝑡𝘢ts:
 
 <div style="display:flex">
 <img height=140 src="https://github-readme-stats.vercel.app/api?username=aminghoreishi&show_icons=true&theme=radical">
