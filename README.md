@@ -29,10 +29,16 @@
 <img height=140 src="https://github-readme-stats.vercel.app/api?username=aminghoreishi&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminghoreishi&layout=compact&theme=radical">
 </div>
+<br />
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
+</div>
+
+<br />
 
 <div align="center">
   
-  ![snake gif](https://github.com/aminghoreishi/aminghoreishi/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/aminghoreishi/aminghoreishi/blob/output/github-snake-dark.svg">
 </div>
 
 
