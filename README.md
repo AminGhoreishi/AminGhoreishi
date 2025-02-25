@@ -31,13 +31,12 @@
 </div>
 <br />
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=aminghoreishi&theme=onedark">
 </div>
 
 <br />
 
 <div align="center">
- 
   <img src="https://github.com/aminghoreishi/aminghoreishi/blob/output/github-snake-dark.svg">
 </div>
 
