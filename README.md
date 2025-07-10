@@ -30,9 +30,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminghoreishi&layout=compact&theme=radical">
 </div>
 <br />
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=aminghoreishi&theme=onedark">
-</div>
+
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=aminghoreishi&theme=onedark&title=Commits,Experienc,Issues)
+
+
+
 
 <br />
 
