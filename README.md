@@ -1,16 +1,26 @@
 <p align="center">𝓘𝓷 𝓖𝓸𝓭 𝓦𝓮 𝓣𝓻𝓾𝓼𝓽</p>
 
 
-<p align="center">𝐸𝘷𝑒𝘳𝑦 𝑙𝘪𝑛𝘦 𝘰𝑓 𝑐𝘰𝑑𝘦 𝘐 𝘸𝑟𝘪𝑡𝘦 𝘪𝑠 𝑙𝘪𝑘𝘦 𝘱𝑎𝘪𝑛𝘵𝑖𝘯𝑔 𝑎 𝑠𝘵𝑜𝘳𝑦—𝑎 𝑠𝘵𝑜𝘳𝑦 𝑡𝘩𝑎𝘵 𝘤𝑜𝘯𝑛𝘦𝑐𝘵𝑠 𝑢𝘴𝑒𝘳𝑠 𝑡𝘰 𝘵ℎ𝘦 𝘥𝑖𝘨𝑖𝘵𝑎𝘭 𝘸𝑜𝘳𝑙𝘥!</p>
+<p align="center">Every line of code I write is like painting a story—a story that connects users to the digital world!</p>
 
 <br />
 
-𝑇𝘢𝑙𝘬𝑖𝘯𝑔 𝑎𝘣𝑜𝘶𝑡 𝑃𝘦𝑟𝘴𝑜𝘯𝑎𝘭 𝘚𝑡𝘶𝑓𝘧𝑠:
-- 🧑‍💻 𝘐'𝘮 𝘸𝑜𝘳𝑘𝘪𝑛𝘨 𝘰𝑛 𝑠𝘰𝑚𝘦𝑡𝘩𝑖𝘯𝑔 𝑐𝘰𝑜𝘭
-- ✉️ 𝘏𝑜𝘸 𝘵𝑜 𝑟𝘦𝑐𝘢ℎ 𝑚𝘦 : [𝘢𝑚𝘪𝑛.𝑔𝘩𝑜𝘳𝑒𝘪𝑠𝘩𝑖86@𝑔𝘮𝑎𝘪𝑙.𝑐𝘰𝑚](https)
+### 🧑‍💻 **Talking about Personal Stuff:**
+
+* 🔧 **𝘐'𝘮 𝘸𝑜𝘳𝘬𝘪𝑛𝘨 𝘰𝑛** several projects with **React**, including building interactive UI components and exploring **React hooks**.
+
+* 🌱 **𝘐'𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨** more about **React best practices**, state management with **Redux**, and enhancing app performance.
+
+* 📝 **𝘐 𝘦𝘯𝘫𝘰𝘺 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨** user-friendly, dynamic applications and experimenting with **React Router** for seamless navigation.
+
+* 📚 **𝘐'𝘮 𝘳𝘦𝘢𝘥𝘪𝘯𝘨** about **React Native** to start developing mobile apps with React.
+
+* 🤔 **𝘐 𝘭𝘰𝘷𝘦 𝘴𝘰𝘭𝘷𝘪𝘯𝘨** front-end challenges and creating smooth, engaging user experiences with React.
+
+
 <br />
 
-𝐼 𝑎𝘮 𝘤𝑢𝘳𝑟𝘦𝑛𝘵𝑙𝘺 𝘸𝑜𝘳𝑘𝘪𝑛𝘨 𝘸𝑖𝘵ℎ 𝑡𝘩𝑒𝘴𝑒 𝑡𝘦𝑐𝘩𝑛𝘰𝑙𝘰𝑔𝘪𝑒𝘴:
+I am working with thse technologies:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,7 +32,7 @@
 <br />
 
 
-𝐺𝘪𝑡𝘩𝑢𝘣 𝘴𝑡𝘢ts:
+Github stats:
 
 <div style="display:flex">
 <img height=140 src="https://github-readme-stats.vercel.app/api?username=aminghoreishi&show_icons=true&theme=radical">
