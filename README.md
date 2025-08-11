@@ -36,7 +36,7 @@ Github stats:
 
 <div style="display:flex">
 <img height=140 src="https://github-readme-stats.vercel.app/api?username=aminghoreishi&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminghoreishi&layout=compact&theme=radical">
+<img src="https://camo.githubusercontent.com/7a092544062bb3bd08cf947d3875ac6e3a7f5a9cb147b877d90ba2a333b20626/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616d696e67686f726569736869266c61796f75743d636f6d70616374267468656d653d7261646963616c" >
 </div>
 <br />
 
